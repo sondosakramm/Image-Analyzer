@@ -1,1 +1,3 @@
 # Image-Analyzer
+image_url1 --> a cutting board with food on it
+image_url2 --> an ancient city with many ruins with Colosseum in the background
