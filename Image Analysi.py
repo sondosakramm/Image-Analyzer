@@ -1,8 +1,8 @@
 from azure.cognitiveservices.vision.computervision import ComputerVisionClient
 from msrest.authentication import CognitiveServicesCredentials
 
-ENDPOINT = "https://image-analyzer1.cognitiveservices.azure.com/"
-KEY = "3f8fb94c6c804e02b661a15997a76809"
+ENDPOINT = "YOUR ENDPOINT"
+KEY = "YOUR KEY"
 
 image_url1 = "https://i.ibb.co/c8v6JP5/image.jpg"
 image_url2 = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-sample-data-files/master/ComputerVision/Images/landmark.jpg"
